@@ -11,16 +11,19 @@
 
 ##### Youtube Speedcode: 
 * https://youtu.be/Z08rqEN3jRI
+
 ##### Design Inspiration: 
-https://dribbble.com/shots/14092869-Blue
+* https://dribbble.com/shots/14092869-Blue
 
 # [Temperature Control](https://github.com/kazimunshimun/TemperatureControl)
 
 ##### Overview: 
 
 ##### Youtube Speedcode: 
+https://youtu.be/yiQjoFTXR8o
 
 ##### Design Inspiration:
+* https://dribbble.com/shots/5534531-Smart-Home-App-Thermostat
 
 # [Fund Transfer](https://github.com/kazimunshimun/FundTransfer)
 
@@ -30,11 +33,11 @@ https://dribbble.com/shots/14092869-Blue
 </p>
 
 ##### Youtube Speedcode: 
-* https://youtu.be/7KJ4NsdvizE 
-* https://youtu.be/7KJ4NsdvizE
+* Part 1: https://youtu.be/7KJ4NsdvizE 
+* Part 2: https://youtu.be/l7xQWe27Lkc
 
 ##### Design Inspiration: 
-https://dribbble.com/shots/12517549-GIVE-YOU-CASH
+* https://dribbble.com/shots/12517549-GIVE-YOU-CASH
 
 
 # [Cybertruck](https://github.com/kazimunshimun/TeslaCybertruckUI)
@@ -42,29 +45,43 @@ https://dribbble.com/shots/12517549-GIVE-YOU-CASH
 ##### Overview: 
 
 ##### Youtube Speedcode: 
+* Part 1: https://youtu.be/JOQ8xDxptZ0
+* Part 2: https://youtu.be/Vja_fa1IhHI
 
 ##### Design Inspiration:
+* https://dribbble.com/shots/10196092-Tesla-Smart-App
 
 # [Step Counter](https://github.com/kazimunshimun/SwiftUIStepCounterUI)
 
 ##### Overview: 
 
 ##### Youtube Speedcode: 
+* https://youtu.be/SnqYTu7MPM0
 
 ##### Design Inspiration:
+* https://dribbble.com/shots/14002916-Step-Counter-App-Concept
 
 # [Fitness App](https://github.com/kazimunshimun/FitnessApp)
 
 ##### Overview: 
 
 ##### Youtube Speedcode: 
+* Part 1: https://youtu.be/U4_9r15t4yE
+* Part 2: https://youtu.be/HD0gA8p3Zfc
+* Part 3: https://youtu.be/THYlvU3Zx8w
+* Part 4: https://youtu.be/laca0Guk2GI
 
 ##### Design Inspiration:
+* https://dribbble.com/shots/9800109-Fitness-Device-App
 
 # [Banking App](https://github.com/kazimunshimun/SwiftUIBankingApp)
 
 ##### Overview: 
 
 ##### Youtube Speedcode: 
+* Part 1: https://youtu.be/QwLIFepPZaw
+* Part 2: https://youtu.be/KHshHCq4VKU
+* Part 3: https://youtu.be/_8w7LlugRWY
 
 ##### Design Inspiration:
+* https://dribbble.com/shots/13633745-Banking-app-NFC-payment
