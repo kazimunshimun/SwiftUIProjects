@@ -18,6 +18,9 @@
 # [Temperature Control](https://github.com/kazimunshimun/TemperatureControl)
 
 ##### Overview: 
+<p align="center">
+<img src="https://github.com/kazimunshimun/TemperatureControl/raw/master/Resources/overview.gif" width="230"  title="OverView">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/TemperatureControl/raw/master/Resources/screen.png" width="230" title="Controls">
+</p>
 
 ##### Youtube Speedcode: 
 * https://youtu.be/yiQjoFTXR8o
