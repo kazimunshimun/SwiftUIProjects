@@ -5,10 +5,14 @@
 # [Transfer Fund](https://github.com/kazimunshimun/FundTransfer2)
 
 ##### Overview: 
+<p align="center">
+<img src="https://raw.githubusercontent.com/kazimunshimun/FundTransfer2/master/Resources/refresh_user.gif" width="230"  title="OverView">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/FundTransfer2/raw/master/Resources/screen.png" width="230" title="Home">
+</p>
 
 ##### Youtube Speedcode: 
-
+* https://youtu.be/Z08rqEN3jRI
 ##### Design Inspiration: 
+https://dribbble.com/shots/14092869-Blue
 
 # [Temperature Control](https://github.com/kazimunshimun/TemperatureControl)
 
