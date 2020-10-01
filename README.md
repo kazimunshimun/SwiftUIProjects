@@ -54,6 +54,9 @@
 # [Step Counter](https://github.com/kazimunshimun/SwiftUIStepCounterUI)
 
 ##### Overview: 
+<p align="center">
+<img src="https://github.com/kazimunshimun/SwiftUIStepCounterUI/raw/master/stepCounter.gif" width="230"  title="OverView">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/SwiftUIStepCounterUI/raw/master/screen.png" width="230" title="Counter">
+</p>
 
 ##### Youtube Speedcode: 
 * https://youtu.be/SnqYTu7MPM0
@@ -65,7 +68,7 @@
 
 ##### Overview: 
 <p align="center">
-<img src="https://github.com/kazimunshimun/FitnessApp/raw/master/fitness.gif" width="230"  title="OverView">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/FitnessApp/raw/master/screen_1.png" width="230" title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/FitnessApp/raw/master/screen_2.png" width="230" title="Transfer">
+<img src="https://github.com/kazimunshimun/FitnessApp/raw/master/fitness.gif" width="230"  title="OverView">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/FitnessApp/raw/master/screen_1.png" width="230" title="Dashboard">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/FitnessApp/raw/master/screen_2.png" width="230" title="Heart Rate">
 </p>
 
 ##### Youtube Speedcode: 
@@ -81,7 +84,7 @@
 
 ##### Overview: 
 <p align="center">
-<img src="https://github.com/kazimunshimun/SwiftUIBankingApp/raw/master/banking.gif" width="230"  title="OverView">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/SwiftUIBankingApp/raw/master/screen_1.png" width="230" title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/SwiftUIBankingApp/raw/master/screen_2.png" width="230" title="Transfer">
+<img src="https://github.com/kazimunshimun/SwiftUIBankingApp/raw/master/banking.gif" width="230"  title="OverView">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/SwiftUIBankingApp/raw/master/screen_1.png" width="230" title="Cards">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/SwiftUIBankingApp/raw/master/screen_2.png" width="230" title="Graph">
 </p>
 
 ##### Youtube Speedcode: 
