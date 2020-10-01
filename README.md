@@ -46,6 +46,9 @@
 # [Cybertruck](https://github.com/kazimunshimun/TeslaCybertruckUI)
 
 ##### Overview: 
+<p align="center">
+<img src="https://github.com/kazimunshimun/TeslaCybertruckUI/raw/master/cybertruck.gif" width="230"  title="OverView">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/TeslaCybertruckUI/raw/master/screen_1.png" width="230" title="Lock Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/TeslaCybertruckUI/raw/master/screen_2.png" width="230" title="Controls">
+</p>
 
 ##### Youtube Speedcode: 
 * Part 1: https://youtu.be/JOQ8xDxptZ0
