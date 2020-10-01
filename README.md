@@ -20,7 +20,7 @@
 ##### Overview: 
 
 ##### Youtube Speedcode: 
-https://youtu.be/yiQjoFTXR8o
+* https://youtu.be/yiQjoFTXR8o
 
 ##### Design Inspiration:
 * https://dribbble.com/shots/5534531-Smart-Home-App-Thermostat
@@ -77,6 +77,9 @@ https://youtu.be/yiQjoFTXR8o
 # [Banking App](https://github.com/kazimunshimun/SwiftUIBankingApp)
 
 ##### Overview: 
+<p align="center">
+<img src="https://github.com/kazimunshimun/SwiftUIBankingApp/raw/master/banking.gif" width="230"  title="OverView">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/SwiftUIBankingApp/raw/master/screen_1.png" width="230" title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/SwiftUIBankingApp/raw/master/screen_2.png" width="230" title="Transfer">
+</p>
 
 ##### Youtube Speedcode: 
 * Part 1: https://youtu.be/QwLIFepPZaw
