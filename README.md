@@ -64,6 +64,9 @@
 # [Fitness App](https://github.com/kazimunshimun/FitnessApp)
 
 ##### Overview: 
+<p align="center">
+<img src="https://github.com/kazimunshimun/FitnessApp/raw/master/fitness.gif" width="230"  title="OverView">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/FitnessApp/raw/master/screen_1.png" width="230" title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/FitnessApp/raw/master/screen_2.png" width="230" title="Transfer">
+</p>
 
 ##### Youtube Speedcode: 
 * Part 1: https://youtu.be/U4_9r15t4yE
