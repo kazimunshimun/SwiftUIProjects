@@ -2,6 +2,19 @@
 
 <a href="mailto:anik1.bd@gmail.com"><img src="https://img.shields.io/badge/EMAIL-anik1.bd-%232E9FFF?style=for-the-badge&logo=gmail" height="24"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kazi-munshimun-nabi-b5412470/"><img src="https://img.shields.io/badge/LINKEDIN-kazi.munshimun-%230077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5" height="24"></a>&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/3478444/kazi-munshimun"><img src="https://img.shields.io/badge/Stack%20Overflow-kazi.munshimun-%23FE7A16?style=for-the-badge&logo=stackoverflow" height="24"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/kazimunshimun/SwiftUIProjects/raw/master/CV_Kazi_Munshimun_Nabi.pdf"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-%2300B057?style=for-the-badge&logo=koding" height="24"></a>
 
+# [Mail Client UI](https://github.com/kazimunshimun/SwiftUIMailClient)
+
+##### Overview: 
+<p align="center">
+<img src="https://github.com/kazimunshimun/SwiftUIMailClient/raw/main/overview.gif" width="230"  title="OverView">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/SwiftUIMailClient/blob/main/screen_1.png" width="230" title="Read">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/kazimunshimun/SwiftUIMailClient/blob/main/screen_2.png" width="230" title="Delete">
+</p>
+
+##### Youtube Speedcode: 
+* https://youtu.be/0AZdtPoKTSE
+
+##### Design Inspiration: 
+* https://dribbble.com/shots/3865738-Mail-Client-App
+
 # [Transfer Fund](https://github.com/kazimunshimun/FundTransfer2)
 
 ##### Overview: 
